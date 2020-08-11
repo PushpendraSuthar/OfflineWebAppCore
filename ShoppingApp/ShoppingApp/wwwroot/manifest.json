@@ -1,0 +1,40 @@
+{
+  "short_name": "Shopping-App",
+  "display": "standalone",
+  "start_url": "/Home/index.html",
+  "name": "Progressive Web App Shopping-App",
+
+  "description": "Creating PWA in ASP.NET Core. shopping App",
+  "background_color": "#e44d26",
+  "theme_color": "#8e44ad",
+  "icons": [
+    {
+      "src": "/images/icon192x192.png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/images/icon512x512.png",
+      "sizes": "512x512"
+    }
+  ],
+
+  "testDropdownList": [
+    {
+      "text": "A",
+      "value": "1"
+    },
+    {
+      "text": "B",
+      "value": "2"
+    },
+    {
+      "text": "C",
+      "value": "3"
+    },
+    {
+      "text": "D",
+      "value": "4"
+    }
+  ]
+ 
+}
